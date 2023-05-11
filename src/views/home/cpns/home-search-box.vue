@@ -56,7 +56,7 @@
 
     <!-- 搜索按钮 -->
     <div class="section search-btn">
-      <div class="btn" @click="searchBtnClick">开始搜索</div>
+      <div class="btn" @click="searchBtnClick">查找民宿</div>
     </div>
   </div>
 </template>

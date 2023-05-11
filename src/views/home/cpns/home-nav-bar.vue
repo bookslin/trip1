@@ -15,6 +15,7 @@
     align-items: center;
     height: 46px;
     border-bottom: 1px solid #f2f2f2;
+    background-color: rgb(red, green, blue);
   
 
     .title {
